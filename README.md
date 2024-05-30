@@ -47,6 +47,10 @@ Paper collection, Summary, Code for Model Merging
 ### for Continual Learning
 
 +   [Arxiv2023] Towards Plastic and Stable Exemplar-Free Incremental Learning: A Dual-Learner Framework with Cumulative Parameter Averaging ([paper](https://arxiv.org/abs/2310.18639))
++   [ICCV2023] Tangent Model Composition for Ensembling and Continual Fine-tuning ([paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Tangent_Model_Composition_for_Ensembling_and_Continual_Fine-tuning_ICCV_2023_paper.pdf))([code](https://github.com/tianyu139/))
++   [ICML2023] Optimizing Mode Connectivity for Class Incremental Learning ([paper](https://proceedings.mlr.press/v202/wen23b/wen23b.pdf))([code](https://github.com/HaitaoWen/EOPC))
++   [ICLR2021] Linear Mode Connectivity in Multitask and Continual Learning ([paper](https://openreview.net/pdf?id=Fmg_fQYUejf))([code](https://github.com/imirzadeh/MC-SGD))
++   [NeurIPS2017] Overcoming Catastrophic Forgetting by Incremental Moment Matching ([paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/f708f064faaf32a43e4d3c784e6af9ea-Paper.pdf))([code](https://github.com/btjhjeon/IMM_tensorflow))
 
 ## Other Resources
 
