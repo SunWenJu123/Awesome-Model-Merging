@@ -1,6 +1,6 @@
 # Awesome-Model-Merging
 
-Paper collection, Summary, Code for Model Merging
+Paper collection, Summary, Code for Model Merging, focusing on the fusion of fine-tuned models. 
 
 ## Survey
 
@@ -65,3 +65,6 @@ Other **Awesome** lists that I thought may share techniques for Model Merging.
 +   [Awesome Incremental Learning / Lifelong learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
 +   [Awesome Deep Neural Network Compression](https://github.com/csyhhu/Awesome-Deep-Neural-Network-Compression?tab=readme-ov-file)
 
+A paper list on a similar topic, but focuses on the merging of large pre-trained models:
+
++   [Awesome-Model-Merging](https://github.com/ycjing/Awesome-Model-Merging)
