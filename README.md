@@ -1,6 +1,10 @@
-# Awesome-Model-Averaging
+# Awesome-Model-Merging
 
-Paper collection, Summary, Code for Model Averaging
+Paper collection, Summary, Code for Model Merging
+
+## Survey
+
+[Arxiv2023] Deep Model Fusion: A Survey ([paper](https://arxiv.org/pdf/2309.15698))
 
 ## Paper
 
