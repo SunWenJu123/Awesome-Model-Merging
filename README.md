@@ -52,6 +52,12 @@ Paper collection, Summary, Code for Model Merging
 +   [ICLR2021] Linear Mode Connectivity in Multitask and Continual Learning ([paper](https://openreview.net/pdf?id=Fmg_fQYUejf))([code](https://github.com/imirzadeh/MC-SGD))
 +   [NeurIPS2017] Overcoming Catastrophic Forgetting by Incremental Moment Matching ([paper](https://proceedings.neurips.cc/paper_files/paper/2017/file/f708f064faaf32a43e4d3c784e6af9ea-Paper.pdf))([code](https://github.com/btjhjeon/IMM_tensorflow))
 
+## Videos
+
++   [Merge LLMs to Make Best Performing AI Model](https://www.youtube.com/watch?v=byf-y0P4hMg)
++   [Paper deep dive: Evolutionary Optimization of Model Merging Recipes](https://www.youtube.com/watch?v=BihyfzOidDI)
++   [https://www.youtube.com/watch?v=cvOpX75Kz4M](https://www.youtube.com/watch?v=cvOpX75Kz4M)
+
 ## Other Resources
 
 Other **Awesome** lists that I thought may share techniques for Model Merging.
