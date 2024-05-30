@@ -47,3 +47,11 @@ Paper collection, Summary, Code for Model Merging
 ### for Continual Learning
 
 +   [Arxiv2023] Towards Plastic and Stable Exemplar-Free Incremental Learning: A Dual-Learner Framework with Cumulative Parameter Averaging ([paper](https://arxiv.org/abs/2310.18639))
+
+## Other Resources
+
+Other **Awesome** lists that may shared techniques than I thought for Model Merging.
+
++   [Awesome Incremental Learning / Lifelong learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
++   [Awesome Deep Neural Network Compression](https://github.com/csyhhu/Awesome-Deep-Neural-Network-Compression?tab=readme-ov-file)
+
