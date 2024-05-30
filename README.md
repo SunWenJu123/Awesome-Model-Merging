@@ -54,7 +54,7 @@ Paper collection, Summary, Code for Model Merging
 
 ## Other Resources
 
-Other **Awesome** lists that may shared techniques than I thought for Model Merging.
+Other **Awesome** lists that I thought may share techniques for Model Merging.
 
 +   [Awesome Incremental Learning / Lifelong learning](https://github.com/xialeiliu/Awesome-Incremental-Learning)
 +   [Awesome Deep Neural Network Compression](https://github.com/csyhhu/Awesome-Deep-Neural-Network-Compression?tab=readme-ov-file)
